@@ -1,0 +1,13 @@
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\bin\Debug\netcoreapp3.1\AsymmetricKeys.exe
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\bin\Debug\netcoreapp3.1\AsymmetricKeys.deps.json
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\bin\Debug\netcoreapp3.1\AsymmetricKeys.runtimeconfig.json
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\bin\Debug\netcoreapp3.1\AsymmetricKeys.runtimeconfig.dev.json
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\bin\Debug\netcoreapp3.1\AsymmetricKeys.dll
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\bin\Debug\netcoreapp3.1\AsymmetricKeys.pdb
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\obj\Debug\netcoreapp3.1\AsymmetricKeys.csprojAssemblyReference.cache
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\obj\Debug\netcoreapp3.1\AsymmetricKeys.AssemblyInfoInputs.cache
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\obj\Debug\netcoreapp3.1\AsymmetricKeys.AssemblyInfo.cs
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\obj\Debug\netcoreapp3.1\AsymmetricKeys.dll
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\obj\Debug\netcoreapp3.1\AsymmetricKeys.pdb
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\obj\Debug\netcoreapp3.1\AsymmetricKeys.csproj.CoreCompileInputs.cache
+E:\Users\climonr\source\repos\AsymmetricKeys\AsymmetricKeys\obj\Debug\netcoreapp3.1\AsymmetricKeys.genruntimeconfig.cache

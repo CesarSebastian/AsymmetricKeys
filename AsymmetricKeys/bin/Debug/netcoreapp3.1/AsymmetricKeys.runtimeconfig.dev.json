@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "e:\\Users\\climonr\\.dotnet\\store\\|arch|\\|tfm|",
+      "e:\\Users\\climonr\\.nuget\\packages"
+    ]
+  }
+}
